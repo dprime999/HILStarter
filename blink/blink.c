@@ -13,7 +13,7 @@
 #endif
 
 #ifndef LED_DELAY_MS
-#define LED_DELAY_MS 75
+#define LED_DELAY_MS 400
 #endif
 
 // Perform initialisation
